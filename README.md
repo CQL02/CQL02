@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student of Universiti Malaya</h3>
 
 - 🔭 I’m currently working on **My final year project**
-- 🌱 I’m currently joining **Software Maintainance and Evolution** course and hope to gain new knowledge within this course
+- 🌱 I’m currently learning **Framework related to Typescript**
 - 📫 How to reach me **chungqilin02@gmail.com**
 
 
